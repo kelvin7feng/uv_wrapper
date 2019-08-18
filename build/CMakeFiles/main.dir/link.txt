@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11   CMakeFiles/main.dir/main.cpp.o  -o main  -L/opt/dev/uv_wrapper/third_party/libuv-v1.9.1/.libs -Wl,-rpath,/opt/dev/uv_wrapper/third_party/libuv-v1.9.1/.libs -rdynamic -luv 
